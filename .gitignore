@@ -1,5 +1,6 @@
 *.iml
 .gradle
+!app/build/outputs/apk/debug/app-debug.apk
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -9,7 +10,6 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
-!/build/outputs/apk/debug/app-debug.apk
 /captures
 .externalNativeBuild
 .cxx
