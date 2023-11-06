@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "60928163170",
+    "firebase_url": "https://sensor-d1b2c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sensor-d1b2c",
+    "storage_bucket": "sensor-d1b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60928163170:android:22d8cb76f8837983e4003b",
+        "android_client_info": {
+          "package_name": "com.almuqsitalif08.pengabdianunsri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60928163170-nsga79eqf952nve8oo44saovpbt2pm0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpT1Mk3lD5mUd1gQdFFftcQ4HqJco6zfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60928163170-nsga79eqf952nve8oo44saovpbt2pm0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60928163170:android:cd599a1ad3a399abe4003b",
+        "android_client_info": {
+          "package_name": "com.almuqsitalif08.sensoriot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60928163170-nsga79eqf952nve8oo44saovpbt2pm0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpT1Mk3lD5mUd1gQdFFftcQ4HqJco6zfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60928163170-nsga79eqf952nve8oo44saovpbt2pm0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
